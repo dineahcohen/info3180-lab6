@@ -5,3 +5,18 @@ body {
 footer  {
     padding-top: 20px;
 }
+
+h2{
+    text-align: center;
+}
+.border{
+    border-top: 5px solid #610000; 
+}
+
+.bottomSpace{
+    margin-bottom: 20px;
+}
+
+ul{
+    list-style-type: none;
+}
